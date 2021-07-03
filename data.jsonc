@@ -1,0 +1,8 @@
+// In this JSON file I have given all the data from i have collected the information for this website.
+{
+    "Travel Data from":"https://www.trivago.com/",//Trivago
+    "Information about places data from":"https://en.wikipedia.org/wiki" ,//Wikipedia
+    "Places Data from":"https://www.thrillophilia.com",//thrillophilia
+    "FrameWork from":"https://getBootstrap.com", //Bootstrap
+    "Fonts used from":"https://fonts.google.com/"//Google Fonts
+}
